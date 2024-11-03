@@ -1,2 +1,3 @@
-# metro-mania
-an open-source fork of mini metro in html
+# metro-mania ...
+... is an open-source fork of mini metro in html
+Vous avez juste à lancer le fichier html avec votre navigateur web préferé qui supporte webGL et HTML5 !
